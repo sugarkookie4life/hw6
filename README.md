@@ -10,5 +10,5 @@
 ## Задание 1.
 ![](https://github.com/sugarkookie4life/hw6/blob/master/Screen%20Shot%202018-04-06%20at%2014.21.22.png)
 
-Difficult,important,fundamental являются самыми частотными модификаторами существитеьлного question. 
+Difficult,important,fundamental являются самыми частотными модификаторами существительного question. 
 ## Задание 2.
