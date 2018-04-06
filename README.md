@@ -17,4 +17,6 @@
 ## Задание 3
 ![](https://github.com/sugarkookie4life/hw6/blob/master/Screen%20Shot%202018-04-06%20at%2015.07.38.png)
 ![](https://github.com/sugarkookie4life/hw6/blob/master/Screen%20Shot%202018-04-06%20at%2015.11.04.png)
-![]
+![](https://github.com/sugarkookie4life/hw6/blob/master/Screen%20Shot%202018-04-06%20at%2015.11.08.png)
+
+Возьмем слово "oversee". Его частотность, исходя из графиков в Google Ngram и BNC значительно возрастает начиная с 1980 годов. 
