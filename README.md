@@ -10,5 +10,7 @@
 ## Задание 1.
 ![](https://github.com/sugarkookie4life/hw6/blob/master/Screen%20Shot%202018-04-06%20at%2014.21.22.png)
 
-Difficult,important,fundamental являются самыми частотными модификаторами существительного question. 
+"Difficult","important","fundamental" являются самыми частотными модификаторами существительного question. 
 ## Задание 2.
+![]()
+Глаголы "scream и "shout" являются синонимичными. Оба глагола могут употребляться с objects "obscenity" and "abuse". Но, например, object "insult" употреблятся со словом "shout", в то время как object "gull" употребляется со словом "scream". 
