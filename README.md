@@ -14,7 +14,7 @@
 ## Задание 2.
 ![](https://github.com/sugarkookie4life/hw6/blob/master/Screen%20Shot%202018-04-06%20at%2014.43.26.png)
 Глаголы "scream и "shout" являются синонимичными. Оба глагола могут употребляться с objects "obscenity" and "abuse". Но, например, object "insult" употреблятся со словом "shout", в то время как object "gull" употребляется со словом "scream". 
-## Задание 3
+## Задание 3. Бонусное задание.
 ![](https://github.com/sugarkookie4life/hw6/blob/master/Screen%20Shot%202018-04-06%20at%2015.07.38.png)
 ![](https://github.com/sugarkookie4life/hw6/blob/master/Screen%20Shot%202018-04-06%20at%2015.11.04.png)
 ![](https://github.com/sugarkookie4life/hw6/blob/master/Screen%20Shot%202018-04-06%20at%2015.11.08.png)
