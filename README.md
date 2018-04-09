@@ -22,3 +22,4 @@
 Возьмем слово "oversee". Его частотность, исходя из графиков в Google Ngram и BNC значительно возрастает начиная с 1980 годов. 
 ## Дополнительное задание.
 ![](https://github.com/sugarkookie4life/hw6/blob/master/Screen%20Shot%202018-04-09%20at%2021.29.37.png)
+![](https://github.com/sugarkookie4life/hw6/blob/master/Screen%20Shot%202018-04-09%20at%2021.51.42.png)
